@@ -220,3 +220,4 @@ MANUAL*.py
 *old*
 /files/
 /bin/
+!AUTO-destiny.py
