@@ -205,3 +205,18 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+
+
+
+# Custom stuff to exclude my own weirdness.
+
+./bin/*
+AUTO*.py
+MANUAL*.py
+*.json
+*old*
+/files/
+/bin/
